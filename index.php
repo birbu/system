@@ -3,7 +3,7 @@
 	<head>
 
 		<!-- ==============================================
-		Title and Meta Tags1
+		Title and Meta Tags
 		=============================================== -->
 		<meta charset="utf-8">
 		<title>BirBu | Kurumsal İş Ortağınız</title>
