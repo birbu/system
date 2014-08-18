@@ -8,6 +8,7 @@
 		<meta charset="utf-8">
 		<title>BirBu | Kurumsal İş Ortağınız</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="google-site-verification" content="fMe1di1ReI9V8Ljx8PEv_JkSnvjizzRVCZbcGQT3IQg" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 		<!-- ==============================================
